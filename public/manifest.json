@@ -1,0 +1,6 @@
+{
+  "short_name": "ReactJS App",
+  "name": "ReactJS App Minimal",
+  "start_url": "/",
+  "display": "standalone"
+}
