@@ -5,7 +5,7 @@ const CopyPlugin = require('copy-webpack-plugin');
 const WorkboxPlugin = require('workbox-webpack-plugin');
 
 module.exports = {
-    entry: ['./src/index.tsx'],
+    entry: ['./src/index.tsx', './src/pwa.js'],
     output: {
         filename: "[name]-[hash].js",
         // publicPath: 
